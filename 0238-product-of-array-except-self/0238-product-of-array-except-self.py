@@ -1,22 +1,20 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         length = len(nums)
+        answer = [0] * length
         
-        # 1. Build Left Product Array
-        L = [0] * length
-        L[0] = 1
+        # 1. Fill answer with Left products
+        answer[0] = 1
         for i in range(1, length):
-            L[i] = L[i-1] * nums[i-1]
+            answer[i] = answer[i-1] * nums[i-1]
+        
+        # 2. Multiply by Right products on the fly
+        R = 1
+        for i in range(length - 1, -1, -1):
+            # Multiply the Left product (already in answer) by the current Right product
+            answer[i] = answer[i] * R
             
-        # 2. Build Right Product Array
-        R = [0] * length
-        R[-1] = 1
-        for i in range(length - 2, -1, -1):
-            R[i] = R[i+1] * nums[i+1]
-            
-        # 3. Combine them
-        answer = []
-        for i in range(length):
-            answer.append(L[i] * R[i])
+            # Update the Right product for the next step
+            R = R * nums[i]
             
         return answer
