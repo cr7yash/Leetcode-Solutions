@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
