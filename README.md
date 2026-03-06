@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
