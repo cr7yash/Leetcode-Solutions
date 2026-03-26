@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1480-running-sum-of-1d-array](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
