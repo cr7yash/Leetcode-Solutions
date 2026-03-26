@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0136-single-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
