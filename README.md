@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
