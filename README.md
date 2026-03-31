@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
