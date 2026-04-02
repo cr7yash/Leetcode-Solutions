@@ -6,6 +6,8 @@ class Solution:
         result = []
 
         for i in range(len(nums)):
+            if nums[i] > 0:
+                break
             fix = nums[i]
             start = i + 1
             end = len(nums) - 1
