@@ -1,24 +1,17 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        result = []
+        result =[]
 
-        word_freq ={}
+        collection = {}
 
-        for word in strs:
-            sorted_word = "".join(sorted(word))
+        for item in strs:
+            sorted_word = "".join(sorted(item))
+            print(sorted_word)
+
+            if sorted_word not in collection:
+                collection[sorted_word] = []
+            collection[sorted_word].append(item)
             
-            if sorted_word not in word_freq:
-                word_freq[sorted_word] = [word]
-            else:
-                word_freq[sorted_word].append(word)
-        
-        for key,value in word_freq.items():
+        for key,value in collection.items():
             result.append(value)
-
         return result
-                
-
-
-
-
-        
