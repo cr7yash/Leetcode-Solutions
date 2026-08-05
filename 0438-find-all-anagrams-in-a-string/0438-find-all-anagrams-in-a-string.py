@@ -1,36 +1,32 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
 
-        start = 0
+        if len(p) > len(s):
+            return []
 
-        window = len(p)
-        result = []
+        p_count ={}
+        s_count ={}
+        result =[]
+        k = len(p)
 
-        freq = {}
-        freq_w ={}
+        for i in range(k):
+            s_count[s[i]] = s_count.get(s[i],0) + 1
+            p_count[p[i]] = p_count.get(p[i],0) + 1
 
-        for i in p:
-            freq[i] = freq.get(i, 0) + 1
+        if s_count == p_count:
+            result.append(0)            
 
-        for i, char in enumerate(s):
-            freq_w[char] = freq_w.get(char, 0) + 1
+        for i in range(k, len(s)):
+            # 1. Add incoming character: s[i]
+            s_count[s[i]] = s_count.get(s[i], 0) + 1
 
-            if i - start + 1 > len(p):
-                left_char = s[start]
-                freq_w[left_char] -= 1
-                if freq_w[left_char] == 0:
-                    del freq_w[left_char]    # delete key so == comparison works
-                start += 1
-            if freq_w == freq:
-                result.append(start)
+            # 2. Remove outgoing character: s[i - k]
+            s_count[s[i - k]] -= 1
+            if s_count[s[i - k]] == 0:
+                del s_count[s[i - k]]
+
+            # 3. Check match & append starting index (i - k + 1)
+            if s_count == p_count:
+                result.append(i - k + 1)            
 
         return result
-
-
-
-
-
-
-
-
-        
