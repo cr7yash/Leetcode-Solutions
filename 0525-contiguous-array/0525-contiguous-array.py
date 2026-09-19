@@ -1,27 +1,17 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
+        max_len = 0
+        running_sum = 0
+        seen = {0:-1}
 
-        max_length = 0
-        balance = 0
-        freq = {0: -1}
-
-        for i, num in enumerate(nums):
+        for i,num in enumerate(nums):
             if num == 1:
-                balance += 1
+                running_sum += 1
             else:
-                balance -= 1
+                running_sum -= 1
             
-            if balance in freq:
-                max_length = max(max_length, i - freq[balance])
+            if running_sum in seen:
+                max_len = max(i - seen[running_sum], max_len)
             else:
-                freq[balance] = i
-        return max_length
-
-
-
-
-
-
-
-
-        
+                seen[running_sum] = i
+        return max_len
