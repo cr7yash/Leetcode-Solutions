@@ -1,18 +1,17 @@
 class Solution:
-    def subarraysDivByK(self, nums: List[int], k: int) -> int:
-        current_sum = 0
-        freq = {0: 1}
-        count = 0
+    def subarraysDivByK(self, nums: list[int], k: int) -> int:
+        result = 0
+        running_sum = 0
+        seen= {0:1}
 
         for num in nums:
-            current_sum += num
+            running_sum += num
 
-            test = current_sum % k
+            remainder = running_sum % k
 
-            if test in freq:
-                count += freq[test]
-            freq[test] = freq.get(test, 0) + 1
+            if remainder in seen:
+                result += seen[remainder]
+            
+            seen[remainder] = seen.get(remainder, 0) + 1
 
-        return count
-
-
+        return result
