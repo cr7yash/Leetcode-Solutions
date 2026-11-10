@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/cr7yash/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/cr7yash/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
